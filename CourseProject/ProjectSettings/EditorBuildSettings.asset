@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SplashScreen.unity
+    guid: 277bcdcef3e614b4cb5c1e910d3bb5ed
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: b54a56e49a621a64aa312d41e5e0ff54
+  - enabled: 1
+    path: Assets/RedirectLevel.unity
+    guid: 675809c19c7dcfe4cadca61a2c1adbb1
+  - enabled: 1
+    path: Assets/Level001.unity
+    guid: 937d075e37a80784ca3ed7f83dc36ea3
+  - enabled: 1
+    path: Assets/Credits.unity
+    guid: 1e3b37e2002aebf43a5f2a71d3e4af62
+  - enabled: 1
+    path: Assets/Level002.unity
+    guid: 01ce85b34e133f74ba4bcb5f39344ef6
+  - enabled: 1
+    path: Assets/Level003.unity
+    guid: 3eb7148fb01a5714ba94126400e4a7bd
+  - enabled: 1
+    path: Assets/Level004.unity
+    guid: 20d3f8dfac851c2468435f8ad0f3fb4a
+  - enabled: 1
+    path: Assets/Level005.unity
+    guid: 67d569a0eeb56024aa461cd713681b4a
+  - enabled: 1
+    path: Assets/Level006.unity
+    guid: 5fee94f588f2e6049ac5d93496b4eb2a
+  - enabled: 1
+    path: Assets/Level007.unity
+    guid: af0f75f6b946a224c802982eeb24895c
+  m_configObjects: {}
